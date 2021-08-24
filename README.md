@@ -1,4 +1,4 @@
-# canadadrives-frontend
+# Leaderboard Vue.js Application 
 
 ## Project setup
 ```
