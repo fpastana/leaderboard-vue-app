@@ -15,5 +15,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+***For tutorials on how to build Open Source Apps, please go to [felipepastana.com](https://felipepastana.com)***
